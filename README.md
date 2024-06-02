@@ -1,10 +1,10 @@
 # Introduction
 
-Todo List Application
+Task Description:
 
-- You are required to develop a simple Todo List application using ReactJS. 
-- The application should allow users to add, edit, and delete tasks. 
-- Additionally, users should be able to mark tasks as completed or pending.
+Develop a basic Todo List application that includes both a front end built with React and a back end API. 
+
+The purpose of this task is to create a simple application that allows users to add, display, and delete todo items.
 
 ## Setup
 
